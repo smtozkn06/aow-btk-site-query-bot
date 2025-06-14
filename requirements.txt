@@ -1,0 +1,27 @@
+# BTK Site Query Bot - Requirements
+# Compatible versions for Python 3.9+
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Web Automation
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# HTTP Requests
+requests>=2.31.0
+
+# Image Processing (NumPy compatible versions)
+numpy<2.0.0
+opencv-python>=4.8.0,<4.10.0
+pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Terminal Colors
+colorama>=0.4.6 

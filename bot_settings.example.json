@@ -1,0 +1,11 @@
+{
+    "language": "en",
+    "headless_mode": true,
+    "max_captcha_attempts": 5,
+    "wait_timeout": 30,
+    "default_delay": 3,
+    "parallel_browsers": 1,
+    "filter_captcha_logs": true,
+    "single_domain": "example.com",
+    "bulk_domains": "google.com\nfacebook.com\ntwitter.com\ngithub.com\nyoutube.com"
+} 
