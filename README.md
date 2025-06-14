@@ -389,7 +389,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 - 🐛 **Bug Reports**: [Issues](https://github.com/yourusername/btk-site-query-bot/issues)
 - 💡 **Feature Requests**: [Issues](https://github.com/yourusername/btk-site-query-bot/issues)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: admin@aowsoftware.com
 
 ---
 
