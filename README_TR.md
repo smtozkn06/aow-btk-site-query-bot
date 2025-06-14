@@ -353,7 +353,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 - 🐛 **Bug Raporu**: [Issues](https://github.com/yourusername/btk-site-query-bot/issues)
 - 💡 **Özellik İsteği**: [Issues](https://github.com/yourusername/btk-site-query-bot/issues)
-- 📧 **E-posta**: your.email@example.com
+- 📧 **E-posta**: admim@aowsoftware.com
 
 ---
 
